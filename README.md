@@ -1,12 +1,12 @@
 # Profile card component solution
 
-## - This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+### - This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
-## - I have created this project with the prupose of enhancing my website designing skills
+### - I have created this project with the prupose of enhancing my website designing skills
 
 ## Link to the Live Webpage
 
-## - https://georgevalentin.github.io/Profile_Card_Component/
+### - https://georgevalentin.github.io/Profile_Card_Component/
 
 ## Screenshots
 
