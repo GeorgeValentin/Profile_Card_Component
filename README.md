@@ -18,8 +18,8 @@
 
 ![](./screenshots/S9_Website_Screenshot.jpeg)
 
-#### Built with:
+## Built with:
 
-- HTML
+#### - HTML
 
-- CSS
+#### - CSS
